@@ -1,4 +1,14 @@
 C:\Users\Paul\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Paul/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\game_engine -B D:\game_engine\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.0s)
+-- Shared libraries disabled
+-- compiling zlib from sources
+-- Applying MinGW StepFileGen1.cpp Debug Workaround
+-- VRML disabled
+-- tinyusdz disabled
+-- Enabled importer formats: OBJ FBX
+-- Disabled importer formats: AMF 3DS AC ASE ASSBIN B3D BVH COLLADA DXF CSM HMP IRRMESH IQM IRR LWO LWS MD2 MD3 MD5 MDC MDL NFF NDO OFF OGRE OPENGEX PLY MS3D COB BLEND IFC XGL Q3D Q3BSP RAW SIB SMD STL TERRAGEN 3D USD X X3D GLTF 3MF MMD
+-- Enabled exporter formats:
+-- Disabled exporter formats: OBJ OPENGEX PLY 3DS ASSBIN ASSXML COLLADA FBX STL X X3D GLTF 3MF PBRT ASSJSON STEP
+-- Treating all warnings as errors (for assimp library only)
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
 -- Build files have been written to: D:/game_engine/cmake-build-debug

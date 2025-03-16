@@ -7,10 +7,10 @@
 
 
 #pragma once
-#include "WinInclude.h"
-#include "CustomException.h"
-#include "Keyboard.h"
-#include "Mouse.h"
+#include "../WinInclude.h"
+#include "../Exception/CustomException.h"
+#include "../IO/Keyboard/Keyboard.h"
+#include "../IO/Mouse/Mouse.h"
 
 class Window {
 public:
